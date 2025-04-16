@@ -14,11 +14,19 @@
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="vertical-align:top; margin:8px;">
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" style="vertical-align:top; margin:8px;">
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
+      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="vertical-align:top; margin:8px;">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets--v1.png" alt="google-sheets--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-planner-2019.png" alt="microsoft-planner-2019"/>
+    
 </p>
 <p align="center">
 
