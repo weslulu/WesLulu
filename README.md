@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Welcome I am a graduate software engineering student</h1>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div
+<div style="max-width: 800px; margin: auto; padding: 20px; border: 2px solid black; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+    <h3 align="center" style="color: #333; font-family: Arial, sans-serif;">
+        Beginner in website programming using the React framework, proficient in project management, and interested in data analysis and artificial intelligence.
+    </h3>
+</div>
 
-<!--
-**weslulu/weslulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" style="vertical-align:top; margin:8px;">
+  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse" style="vertical-align:top; margin:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" style="vertical-align:top; margin:8px; width:48px; height:48px;">
+  <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" style="vertical-align:top; margin:8px; width:48px; height:48px;">
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:8px; width:48px; height:48px;">
 
-Here are some ideas to get you started:
+</p>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</p>
+
+</p>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
