@@ -1,4 +1,4 @@
-<h1 align="center">Welcome I am a graduate software engineering student</h1>
+<h1 align="center">Hi, I’m an Information Systems graduate, Front-End Developer, UI/UX Designer, and Data Analyst.</h1>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2N2M4Z3p6bWo3YWJ3M3VqNjRsMWk3anhxNjk2NXBsMWowY2NjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 </div
@@ -35,11 +35,6 @@
 # Contact Me :
 
 <p>
- </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
