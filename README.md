@@ -11,6 +11,7 @@
 <p align="left">
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="vertical-align:top; margin:8px;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="vertical-align:top; margin:8px;">
