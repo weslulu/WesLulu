@@ -1,6 +1,6 @@
 <h1 align="center">Welcome I am a graduate software engineering student</h1>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThxYjJxem9hd3BxM2F3M2V4bmd1M2Yxb3pnZmQwbjg2cTd1YnJvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif)">
 </div
 <div style="max-width: 800px; margin: auto; padding: 20px; border: 2px solid black; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     <h3 align="center" style="color: #333; font-family: Arial, sans-serif;">
