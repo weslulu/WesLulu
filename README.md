@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I’m an Information Systems graduate, Front-End Developer, UI/UX Designer, and Data Analyst.</h1>
+<h1 align="center">Welcome, I am Wesam an information systems graduate</h1>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2N2M4Z3p6bWo3YWJ3M3VqNjRsMWk3anhxNjk2NXBsMWowY2NjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 </div
 <div style="max-width: 800px; margin: auto; padding: 20px; border: 2px solid black; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     <h3 align="center" style="color: #333; font-family: Arial, sans-serif;">
-        Beginner in website programming using the React framework, proficient in project management, and interested in data analysis and artificial intelligence.
+Front-End Developer | UI/UX Designer | Data Analyst   
     </h3>
 </div>
 
