@@ -14,7 +14,6 @@
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="vertical-align:top; margin:8px;">
-    <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="vertical-align:top; margin:8px;">
