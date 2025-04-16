@@ -19,8 +19,6 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" style="vertical-align:top; margin:8px;">
   <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse" style="vertical-align:top; margin:8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" style="vertical-align:top; margin:8px; width:48px; height:48px;">
-  <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" style="vertical-align:top; margin:8px; width:48px; height:48px;">
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:8px; width:48px; height:48px;">
 
 </p>
