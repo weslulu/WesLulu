@@ -41,8 +41,8 @@ Front-End Developer | UI/UX Designer | Data Analyst
 <a href="mailto:wesmlulu@gmail.com"> 
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="www.linkedin.com/in/wesamlulu](https://wes-lulu.github.io/Wes-Portfolio/WesPortfolio.html#FirstPage">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="www.linkedin.com/in/wesamlulu">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" src="www.linkedin.com/in/wesamlulu" />
 </br>
 </br>
 </br>
